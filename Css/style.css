@@ -96,7 +96,7 @@ strong, span{
     margin: 50px;
 }
 h3{
-    color:#37517e;
+    color:white;    
     font-weight: bold;
     padding-top: 120px;
 }
@@ -117,14 +117,13 @@ p{
     color: #f87500;
 }
 .btn{
-    display: flex;
-    justify-content: center;
+    background-color: #f87500;
+    color: white;
     border-radius: 50px;
-    padding: 5px;
+    padding: 10px;
 }
 .btn:hover{
-    display: flex;
-    justify-content: center;
     background-color: #f87500;
     color:white;
 }
+
